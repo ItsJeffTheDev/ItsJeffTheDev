@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/ItsJeffTheDev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Jeff;Founder+%26+CEO+of+GhostTrace;Cybersecurity+Student;Developer+%26+Builder" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Jeff;Founder+%26+CEO+of+GhostTrace+LLC;Cybersecurity+Student;Developer+%26+Builder" alt="Typing SVG" />
   </a>
 </div>
 
@@ -45,16 +45,15 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ItsJeffTheDev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ItsJeffTheDev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ItsJeffTheDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsJeffTheDev&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=ItsJeffTheDev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsJeffTheDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ItsJeffTheDev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
